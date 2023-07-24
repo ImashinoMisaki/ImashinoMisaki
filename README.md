@@ -1,0 +1,6 @@
+- I'm ImashinoMisaki
+- Student at `Shenzhen Polytechnic University`
+- Java, Go, Rust, C++, Python
+- Basic Minecraft Modder
+- Currently learning on **Reverse Engineering**
+- Clinical Depression, Anxiety
